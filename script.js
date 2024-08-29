@@ -1,9 +1,9 @@
 const quizData = [
   {
-    question: "how many hands do you have",
-    a: "10",
-    b: "5",
-    c: "7",
+    question: "find a pi value",
+    a: "3.14",
+    b: "10.5",
+    c: "100",
     d: "8",
     correct: "a",
   },
@@ -17,7 +17,7 @@ const quizData = [
     
   },
   {
-    question: "which country's has largest population?",
+    question: "which is the largest country?",
     a: "Japan",
     b: "China",
     c: "India",
@@ -25,19 +25,19 @@ const quizData = [
     correct: "c",
   },
   {
-    question: "india's largest state?",
-    a: "rajasthan",
-    b: "1995",
-    c: "tamilnadu",
+    question: "when is national voters's day celebrated in india?",
+    a: "5 january",
+    b: "5 december",
+    c: "25 january",
     d: "none of the above",
-    correct: "a",
+    correct: "c",
   },
  {
-    question: "old language in world?",
-    a: "sanskrit",
-    b: "English",
-    c: "Tamil",
-    d: "none of the above",
+    question: "which part of the boy helps you move?",
+    a: "eyes",
+    b: "pancreas",
+    c: "muscles",
+    d: "hands",
     correct: "c",
   },
 ];
